@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Guesser", "Number Guesser\Number Guesser.csproj", "{5321D647-FB9A-4D5C-8D59-49B03425A119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstProgram", "..\MyFirstProgram\MyFirstProgram\MyFirstProgram.csproj", "{C4D312D4-D847-4701-BFBD-D59433AAA425}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5321D647-FB9A-4D5C-8D59-49B03425A119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5321D647-FB9A-4D5C-8D59-49B03425A119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5321D647-FB9A-4D5C-8D59-49B03425A119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5321D647-FB9A-4D5C-8D59-49B03425A119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4D312D4-D847-4701-BFBD-D59433AAA425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4D312D4-D847-4701-BFBD-D59433AAA425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4D312D4-D847-4701-BFBD-D59433AAA425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4D312D4-D847-4701-BFBD-D59433AAA425}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
